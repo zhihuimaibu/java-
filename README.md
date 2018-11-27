@@ -18,11 +18,11 @@
 ### javaweb:
           socket通信客户端与服务端         
 ### 数据库：
-          * 索引  
-                    * 聚合索引  例子  
-          * 执行引擎 
-          * acid特性
-          * delete和truncate
+* 索引  
+          * 聚合索引  例子  
+* 执行引擎 
+* acid特性
+* delete和truncate
 ### spring框架：
         springmvc工作原理 spring的事务隔离级别（传播行为） aop ioc  事务的原理  
 ### mybatis的批量插入
