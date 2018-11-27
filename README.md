@@ -2,25 +2,39 @@
 ## java面试总结
 
 ### java基础：
-          list的种类 set map的种类 线程安全和不安全 为什么？
-          线程池的几个参数
-          synchronized和Lock 读写锁 乐观锁  悲观锁   validate关键字
-          String s="abc"
-          String s1=new String("abc")的内存模型 
-          多线程的种类 实现的方法  同步线程的方法  
-          wait和sleep的区别 notify run()有无返回值  join()  调度器
-          序列化implements serializable  
-          异常
-          单例多例
-          放入nginx中session如何共享
-          stringBuilder和stringBuffer
-          javaGC
+* 集合
+    * list 
+    * set 
+    * map <br>
+    线程安全和不安全 为什么？
+* 线程池的几个参数
+* 锁
+    * synchronized和Lock
+    * 读写锁
+    * 乐观锁  悲观锁   v
+    * alidate关键字
+* 内存模型 
+    `eg`
+    * string
+    String s="abc"
+    String s1=new String("abc")
+    * javaGC
+* 多线程
+    * 种类 
+    * 实现的方法 
+    * 同步线程的方法  
+    * wait和sleep的区别 notify run()有无返回值  join()  调度器
+* 序列化implements serializable  
+* 异常
+
+* stringBuilder和stringBuffer
+          
 ### javaweb:
           socket通信客户端与服务端         
 ### 数据库：
 * 索引  
     * 聚合索引 <br> 
-          `例子`
+          `eg`
 * 执行引擎 
 * acid特性
 * delete和truncate
@@ -41,6 +55,8 @@
 * 动态代理静态代理  
 * 单例多例
 ### redis常用类型：
-
+### 业务
+* nginx中session如何共享
+* 幂等性
 
 
