@@ -14,8 +14,8 @@
     * 乐观锁  悲观锁   v
     * alidate关键字
 * 内存模型 
-    `eg`
     * string
+    `eg`
     String s="abc"
     String s1=new String("abc")
     * javaGC
