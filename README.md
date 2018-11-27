@@ -12,7 +12,7 @@
     * synchronized和Lock
     * 读写锁
     * 乐观锁  悲观锁   
-    * alidate关键字
+    * validate关键字
 * 内存模型 
     * string
     <br>`eg`<br>
