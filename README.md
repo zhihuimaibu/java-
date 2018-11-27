@@ -25,21 +25,21 @@
 * acid特性
 * delete和truncate
 ### spring框架：
-    * springmvc工作原理 
-    * spring的事务隔离级别（传播行为）
-    * aop 
-    * ioc 
-    * 事务的原理  
+* springmvc工作原理 
+* spring的事务隔离级别（传播行为）
+* aop 
+* ioc 
+* 事务的原理  
 ### mybatis的批量插入
 ### 远程框架：
-    * dubbox的原理
+* dubbox的原理
 ### 计算机网络：
-    * rpc
-    * http
-    * 二者的差别
+* rpc
+* http
+* 二者的差别
 ### 设计模式：
-    * 动态代理静态代理  
-    * 单例多例
+* 动态代理静态代理  
+* 单例多例
 ### redis常用类型：
 
 
