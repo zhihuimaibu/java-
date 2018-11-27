@@ -11,11 +11,11 @@
 * 锁
     * synchronized和Lock
     * 读写锁
-    * 乐观锁  悲观锁   v
+    * 乐观锁  悲观锁   
     * alidate关键字
 * 内存模型 
     * string
-    `eg`
+    <br>`eg`<br>
     String s="abc"
     String s1=new String("abc")
     * javaGC
@@ -33,7 +33,7 @@
           socket通信客户端与服务端         
 ### 数据库：
 * 索引  
-    * 聚合索引 <br> 
+    * 聚合索引  
           `eg`
 * 执行引擎 
 * acid特性
