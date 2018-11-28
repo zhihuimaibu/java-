@@ -3,12 +3,15 @@
 
 ### java基础：
 * 集合
-    * list 
-      `线程安全：`vector 
+    * list <br>
+      `线程安全：`vector <br>
       `线程不安全：`ArrayList(数组) LinkedList(环形双向链表)<br>
       由于底层实现方式不同，不同的操作，效率也会有所不同<br>
       * 数组：查询快，增删慢
       * 链表：查询慢，增删块
+      List list = new ArrayList();<br>
+      为什么不用初始化内存空间？
+         由ArrayList的底层代码可知，在数组初始化的时候会默认初始化大小为10，并且以后的每次扩展空间为>>1位,
     * set 
     * map <br>
     线程安全和不安全 为什么？
